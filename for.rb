@@ -5,5 +5,5 @@ def using_for
 	For checklist in levitation charm
 	puts "Wingardium Leviosa"
 end
-
+end
 
